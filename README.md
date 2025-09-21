@@ -11,7 +11,7 @@ A Python command-line tool to Shift Subtitle timings in '.srt' files.
 ## Installation 
 1. Clone the repository: 
 '''bash 
-  git clone https://github.com/TwiceHere/Subtitle-Re-timer.git
+  git clone https://github.com/TwiceHere/Subtitle-Re-timer.git'''
 
 2. Navigagte to the project folder
   cd-your-repo
